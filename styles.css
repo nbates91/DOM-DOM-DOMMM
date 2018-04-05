@@ -1,0 +1,15 @@
+.square {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 25px;
+    color: white;
+    text-align: center;
+    display: table;
+    line-height: 50px;
+}
+
+.createSquare {
+    position: fixed;
+}
